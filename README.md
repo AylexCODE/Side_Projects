@@ -1,1 +1,2 @@
-# Side_Projects
+# SIDE PROJECTS
+**Projects I created in my free time**
