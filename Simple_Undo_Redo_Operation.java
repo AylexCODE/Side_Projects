@@ -10,7 +10,7 @@ public class Main {
 		while(true){
 			System.out.println("Content: " +stack);
 			System.out.println("1. Undo\n2. Redo\n3. Exit");
-			System.out.print("Enter Action: ");
+			System.out.print("Enter Action (or add a word): ");
       
 			String x = scanner.nextLine();
 			
