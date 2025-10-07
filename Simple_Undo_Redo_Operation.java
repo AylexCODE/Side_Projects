@@ -13,11 +13,11 @@ public class Main {
 			System.out.print("Enter Action: ");
       
 			String x = scanner.nextLine();
+			
 			if(x.equals("1")){
 				stack.pop();
 			}else if(x.equals( "2")){
 				int i = 0;
-				
 				for(String s : stack){
 					i++;
 				}
